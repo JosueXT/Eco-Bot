@@ -1,6 +1,4 @@
-# Proyecto-final-Kodland-Pro
-
-## EcoBot: Tu Amigo Verde en Discord 🌍
+# EcoBot: Tu Amigo Verde en Discord 🌍
 ¡Hola! EcoBot es un bot que hice para Discord, para dar consejos divertidos y aleatorios sobre cómo cuidar el planeta.
 Nada muy complicado, solo tips para ser más eco-friendly con el agua, la tierra y el aire.
 
